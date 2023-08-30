@@ -1,0 +1,5 @@
+﻿  Project_C++.cpp
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Practica\Project_C++\Project_C++\Project_C++.cpp(12,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Practica\Project_C++\Project_C++\Project_C++.cpp(13,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Practica\Project_C++\Project_C++\Project_C++.cpp(50,6): warning C4101: 'alege': unreferenced local variable
+  Project_C++.vcxproj -> D:\Desktop\Facultate\Anul 2\Semestrul 2\Practica\Project_C++\x64\Debug\Project_C++.exe
